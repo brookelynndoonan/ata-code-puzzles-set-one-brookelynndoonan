@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class BalancedParensWeDoValidationTest {
+public class
+BalancedParensWeDoValidationTest {
 
     BalancedParensTest baseTest = new BalancedParensTest();
 
